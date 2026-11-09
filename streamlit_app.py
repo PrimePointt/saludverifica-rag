@@ -86,7 +86,7 @@ def key_changed():
 
 documents = list_documents()
 with st.sidebar:
-    st.markdown("## 🔎 SaludVerifica")
+    st.markdown("## SaludVerifica")
     page = st.radio("Ir a", ["Verificar", "Fuentes"])
     with st.expander("Configuración de IA"):
         session_key = st.text_input("Clave de DeepSeek (opcional)", type="password", key="session_api_key", on_change=key_changed,
