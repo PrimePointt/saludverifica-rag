@@ -1,0 +1,18 @@
+services:
+  web:
+    build: .
+    image: saludverifica-rag:1.0
+    ports:
+      - "127.0.0.1:${APP_PORT:-8501}:8501"
+    environment:
+      DEEPSEEK_API_KEY: ${DEEPSEEK_API_KEY:-}
+      DATA_DIR: /app/storage
+    volumes:
+      - saludverifica-data:/app/storage
+    restart: unless-stopped
+    init: true
+    security_opt:
+      - no-new-privileges:true
+
+volumes:
+  saludverifica-data:

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "chiapas-2026-01-27",
+    "title": "Descarta Salud deceso por sarampión en Hospital de Chiapa de Corzo",
+    "institution": "Secretaría de Salud de Chiapas",
+    "published": "2026-01-27",
+    "jurisdiction": "Chiapa de Corzo, Chiapas",
+    "url": "https://www.saludchiapas.gob.mx/noticias/post/descarta-salud-deceso-por-sarampion-en-hospital-de-chiapa-de-corzo",
+    "accessed": "2026-11-08",
+    "text": "Tuxtla Gutiérrez, Chiapas.- Con relación a versiones difundidas en redes sociales sobre el fallecimiento de un menor en el Hospital Básico Comunitario de Chiapa de Corzo, la Secretaría de Salud del estado de Chiapas informa a la población que es falso que dicho deceso esté relacionado con sarampión.\n\nEs importante precisar que se realizó la prueba PCR para sarampión, la cual resultó negativa, descartando completamente esta enfermedad como causa o factor asociado al fallecimiento.",
+    "claims": [
+      {"category": "REFUTADA", "aliases": ["En Chiapa de Corzo falleció un niño por sarampión en el hospital.", "En Chiapa de Corzo murió un niño por sarampión en el hospital."], "quote": "Es importante precisar que se realizó la prueba PCR para sarampión, la cual resultó negativa, descartando completamente esta enfermedad como causa o factor asociado al fallecimiento.", "explanation": "Para el caso concreto del comunicado del 27 de enero de 2026, la autoridad informó una PCR negativa y descartó el sarampión como causa. No se generaliza este resultado a otros fallecimientos."},
+      {"category": "RESPALDADA", "aliases": ["En Chiapa de Corzo el niño del comunicado del 27 de enero de 2026 no falleció por sarampión."], "quote": "Es importante precisar que se realizó la prueba PCR para sarampión, la cual resultó negativa, descartando completamente esta enfermedad como causa o factor asociado al fallecimiento.", "explanation": "La negación concuerda con el comunicado de ese caso específico: la prueba PCR fue negativa."}
+    ]
+  },
+  {
+    "id": "oms-desinformacion",
+    "title": "Desinformación y salud pública",
+    "institution": "Organización Mundial de la Salud",
+    "published": "2024-02-06",
+    "jurisdiction": "Global",
+    "url": "https://www.who.int/es/news-room/questions-and-answers/item/disinformation-and-public-health",
+    "accessed": "2026-11-08",
+    "text": "La información errónea es información falsa que se difunde sin intención de engañar.\n\nLa desinformación se crea o se difunde con pleno conocimiento de su falsedad (la información ha sido manipulada), en un intento de engañar y causar daño.\n\nUna de las cosas más importantes que puede hacer para protegerse es averiguar en qué fuentes se recogen los datos oficiales y los datos científicos o de salud basados en la evidencia más recientes relativos a un problema o una crisis de salud pública. Por ejemplo, podría ser el Ministerio de Salud de su país, el sitio web de la Organización Mundial de la Salud o el dispensario de salud de su localidad.",
+    "claims": [
+      {"category": "RESPALDADA", "aliases": ["La información errónea es información falsa que se difunde sin intención de engañar."], "quote": "La información errónea es información falsa que se difunde sin intención de engañar.", "explanation": "Esta es la definición publicada por la OMS. La intención distingue información errónea de desinformación."}
+    ]
+  }
+,
+  {
+    "id": "oms-vih", "title": "VIH y sida — transmisión", "institution": "Organización Mundial de la Salud",
+    "published": "2025-07-15", "accessed": "2026-11-08", "jurisdiction": "Global", "topic": "VIH",
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/hiv-aids",
+    "text": "El VIH se transmite a través de líquidos corporales de la persona infectada, como la sangre, la leche materna, el semen o las secreciones vaginales, y también puede transmitirse al bebé durante el embarazo y el parto. En cambio, no se transmite mediante formas habituales de contacto como los besos, los abrazos y los apretones de manos ni por compartir objetos personales, agua o alimentos.\n\nLa infección por el VIH ataca el sistema inmunitario. La fase más avanzada de la enfermedad se denomina síndrome de inmunodeficiencia adquirida (sida).",
+    "claims": [{"category": "REFUTADA", "aliases": ["El VIH se transmite por compartir alimentos.", "El VIH se contagia por abrazar a una persona."], "quote": "En cambio, no se transmite mediante formas habituales de contacto como los besos, los abrazos y los apretones de manos ni por compartir objetos personales, agua o alimentos.", "explanation": "No. La OMS indica que compartir alimentos y los abrazos no son vías de transmisión del VIH."}]
+  },
+  {
+    "id": "oms-dengue", "title": "Dengue y dengue grave — transmisión y prevención", "institution": "Organización Mundial de la Salud",
+    "published": "2024-04-23", "accessed": "2026-11-08", "jurisdiction": "Global", "topic": "Dengue",
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+    "text": "El dengue es una infección vírica que se transmite al ser humano por la picadura de mosquitos infectados.\n\nAunque muchas infecciones por el virus del dengue son asintomáticas o provocan cuadros leves, en ocasiones se dan casos graves e incluso mortales.\n\nLos mosquitos que transmiten el dengue están activos durante el día.\n\nLa aparición de criaderos de mosquitos se puede evitar de las siguientes formas: controlando y modificando el entorno para que los mosquitos encuentren lugares donde depositar sus huevos; eliminando correctamente los desechos sólidos y los hábitats artificiales que puedan acumular agua; cubriendo, vaciando y limpiando cada semana los recipientes donde se almacene agua para uso doméstico; y aplicando insecticidas adecuados a los recipientes en que se almacena agua.",
+    "claims": [{"category": "REFUTADA", "aliases": ["El dengue siempre es una enfermedad leve."], "quote": "Aunque muchas infecciones por el virus del dengue son asintomáticas o provocan cuadros leves, en ocasiones se dan casos graves e incluso mortales.", "explanation": "No siempre es leve. La OMS describe casos graves e incluso mortales; el mensaje generaliza incorrectamente."}]
+  },
+  {
+    "id": "oms-rabia", "title": "Rabia — animales y prevención", "institution": "Organización Mundial de la Salud",
+    "published": "2026-09-17", "accessed": "2026-11-08", "jurisdiction": "Global", "topic": "Rabia",
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/rabies",
+    "text": "El virus de la rabia infecta a mamíferos como los perros, los gatos, el ganado y la fauna silvestre.\n\nLa vía de propagación a personas y animales es la saliva, con la que se entra en contacto a través de mordeduras, arañazos o mediante el contacto directo con las mucosas (de los ojos, la boca o en heridas abiertas).\n\nLos programas de vacunación masiva de los perros, incluidos sus cachorros, es la estrategia más costoeficaz para prevenir la enfermedad en el ser humano, porque se interviene en la fuente de infección.",
+    "claims": [{"category": "REFUTADA", "aliases": ["La rabia solo afecta a los perros."], "quote": "El virus de la rabia infecta a mamíferos como los perros, los gatos, el ganado y la fauna silvestre.", "explanation": "La rabia no afecta solo a los perros. La publicación enumera otros mamíferos susceptibles."}]
+  },
+  {
+    "id": "oms-vph", "title": "Papilomavirus humano y cáncer — vacunación", "institution": "Organización Mundial de la Salud",
+    "published": "2024-03-05", "accessed": "2026-11-08", "jurisdiction": "Global", "topic": "VPH",
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "text": "La infección por el papilomavirus humano (VPH) es una infección de transmisión sexual común. Casi todas las personas sexualmente activas la contraerán en algún momento de su vida, por lo general sin presentar síntomas.\n\nLa vacunación puede prevenir los cánceres debidos a infecciones por el VPH.\n\nLa vacuna no contiene ningún virus vivo ni ADN del virus, por lo que no puede provocar cáncer ni otras enfermedades relacionadas con el VPH. La vacuna contra el VPH no se utiliza para tratar infecciones o enfermedades causadas por el VPH, sino para prevenir la aparición de un cáncer.",
+    "claims": [{"category": "REFUTADA", "aliases": ["La vacuna contra el VPH cura una infección que ya existe."], "quote": "La vacuna contra el VPH no se utiliza para tratar infecciones o enfermedades causadas por el VPH, sino para prevenir la aparición de un cáncer.", "explanation": "La vacuna tiene una función preventiva; no se utiliza para tratar una infección por VPH ya existente."}]
+  }
+]

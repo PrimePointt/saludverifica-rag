@@ -1,0 +1,33 @@
+[
+  {
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/hiv-aids",
+    "questions": ["¿Cómo se transmite el VIH?", "¿Cómo se transmite el VIH y qué contactos cotidianos no lo transmiten?", "¿Cuáles son las vías de transmisión del VIH?", "¿El VIH se transmite por compartir alimentos?", "¿El VIH se contagia por abrazos?"],
+    "answer": "El VIH puede transmitirse por determinados líquidos corporales: sangre, leche materna, semen y secreciones vaginales; también durante el embarazo y el parto. No se transmite por abrazos, apretones de manos ni por compartir agua o alimentos.",
+    "quote": "El VIH se transmite a través de líquidos corporales de la persona infectada, como la sangre, la leche materna, el semen o las secreciones vaginales, y también puede transmitirse al bebé durante el embarazo y el parto. En cambio, no se transmite mediante formas habituales de contacto como los besos, los abrazos y los apretones de manos ni por compartir objetos personales, agua o alimentos."
+  },
+  {
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+    "questions": ["¿Cómo se pueden evitar los criaderos de mosquitos que transmiten el dengue?", "¿Cómo evitar criaderos de mosquitos?", "¿Cómo se puede prevenir el dengue?", "¿Cómo prevenir el dengue?"],
+    "answer": "La prevención incluye evitar agua acumulada donde se reproducen los mosquitos: eliminar recipientes y desechos que la retengan, y cubrir, vaciar y limpiar cada semana los depósitos de agua doméstica. Son medidas generales de prevención descritas por la OMS.",
+    "support": ["cubriendo, vaciando y limpiando cada semana los recipientes donde se almacene agua para uso doméstico"],
+    "quote": "eliminando correctamente los desechos sólidos y los hábitats artificiales que puedan acumular agua"
+  },
+  {
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+    "questions": ["¿Cómo se transmite el dengue?", "¿Cómo se contagia el dengue?", "¿Qué transmite el dengue?"],
+    "answer": "El dengue se transmite al ser humano por la picadura de mosquitos infectados. La OMS lo describe como una infección vírica.",
+    "quote": "El dengue es una infección vírica que se transmite al ser humano por la picadura de mosquitos infectados."
+  },
+  {
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "questions": ["¿La vacuna contra el VPH previene o trata una infección existente?", "¿La vacuna contra el VPH cura una infección?", "¿Para qué sirve la vacuna contra el VPH?", "¿Qué hace la vacuna contra el VPH?"],
+    "answer": "La vacuna contra el VPH tiene una función preventiva: ayuda a prevenir cánceres relacionados con el virus. No se utiliza para tratar una infección o enfermedad por VPH que ya existe.",
+    "quote": "La vacuna contra el VPH no se utiliza para tratar infecciones o enfermedades causadas por el VPH, sino para prevenir la aparición de un cáncer."
+  },
+  {
+    "url": "https://www.who.int/es/news-room/fact-sheets/detail/rabies",
+    "questions": ["¿Qué animales pueden infectarse con el virus de la rabia?", "¿Qué animales pueden tener rabia?", "¿La rabia solo afecta a los perros?", "¿Qué animales afecta la rabia?"],
+    "answer": "La rabia puede afectar a varios mamíferos, no solo a los perros. La OMS menciona perros, gatos, ganado y fauna silvestre.",
+    "quote": "El virus de la rabia infecta a mamíferos como los perros, los gatos, el ganado y la fauna silvestre."
+  }
+]
